@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/03/12 23:46:46.000.672,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/03/16 13:12:34.000.243,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/27 19:15:01.000.318,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/28 10:17:25.242,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/28 10:32:11.053,D:\Temp\Dicas-DBGrid-AndreCelestino\uFormulario.dfm=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/06/28 10:32:11.053,D:\Temp\Dicas-DBGrid-AndreCelestino\uFormulario.pas=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/28 10:32:14.252,D:\Temp\Dicas-DBGrid-AndreCelestino\DicasDBGrid.dproj=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

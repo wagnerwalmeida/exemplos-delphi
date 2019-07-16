@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/03/12 23:46:46.000.672,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/03/16 13:12:34.000.243,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/27 19:15:01.000.318,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/07/09 22:35:21.000.114,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/08/01 08:45:52.000.610,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/12 00:01:05.000.231,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/19 00:07:35.000.328,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/03 00:10:14.000.141,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/03 23:05:32.000.337,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/12 12:50:57.000.799,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/12 23:12:24.000.080,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/12 23:30:13.000.416,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit1.pas</Transaction>
+    <Transaction>2015/10/12 23:30:13.000.416,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit1.dfm</Transaction>
+    <Transaction>2015/10/12 23:30:33.000.571,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\ExemploSynPDF.dproj</Transaction>
+    <Transaction>2015/10/12 23:30:51.000.593,D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit1.dfm=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\UnitPrincipal.dfm</Transaction>
+    <Transaction>2015/10/12 23:30:51.000.593,D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit1.pas=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\UnitPrincipal.pas</Transaction>
+    <Transaction>2015/10/12 23:30:58.000.580,=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit2.pas</Transaction>
+    <Transaction>2015/10/12 23:34:04.000.544,D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit2.dfm=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\uRelatorio.dfm</Transaction>
+    <Transaction>2015/10/12 23:34:04.000.544,D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\Unit2.pas=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\uRelatorio.pas</Transaction>
+    <Transaction>2015/10/12 23:34:09.000.582,D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\UnitPrincipal.pas=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\uPrincipal.pas</Transaction>
+    <Transaction>2015/10/12 23:34:09.000.582,D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\UnitPrincipal.dfm=D:\Temp\Exemplo-PDF-Synopse-Andre-Celestino\uPrincipal.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

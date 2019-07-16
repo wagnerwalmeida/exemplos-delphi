@@ -1,6 +1,6 @@
 object fFormulario: TfFormulario
-  Left = 323
-  Top = 144
+  Left = 0
+  Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Exemplo de Observer - Andr'#233' Celestino'
@@ -37,7 +37,6 @@ object fFormulario: TfFormulario
     Width = 328
     Height = 364
     TabOrder = 0
-    ExplicitWidth = 328
     ExplicitHeight = 364
   end
   inline FrameSaldo: TFrameSaldo
@@ -47,11 +46,7 @@ object fFormulario: TfFormulario
     Height = 100
     TabOrder = 1
     ExplicitLeft = 334
-    ExplicitWidth = 300
     ExplicitHeight = 100
-    inherited LabelTitulo: TLabel
-      Width = 300
-    end
   end
   inline FrameLog: TFrameLog
     Left = 334
@@ -61,15 +56,6 @@ object fFormulario: TfFormulario
     TabOrder = 2
     ExplicitLeft = 334
     ExplicitTop = 247
-    ExplicitWidth = 300
-    ExplicitHeight = 110
-    inherited LabelTitulo: TLabel
-      Width = 300
-    end
-    inherited MemoLog: TMemo
-      Width = 300
-      Height = 97
-    end
   end
   inline FrameAgrupamento: TFrameAgrupamento
     Left = 334
@@ -79,14 +65,5 @@ object fFormulario: TfFormulario
     TabOrder = 3
     ExplicitLeft = 334
     ExplicitTop = 117
-    ExplicitWidth = 300
-    ExplicitHeight = 110
-    inherited LabelTitulo: TLabel
-      Width = 300
-    end
-    inherited DBGrid: TDBGrid
-      Width = 300
-      Height = 97
-    end
   end
 end

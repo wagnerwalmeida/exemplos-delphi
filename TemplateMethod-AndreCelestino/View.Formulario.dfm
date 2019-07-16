@@ -1,6 +1,6 @@
 object fFormulario: TfFormulario
-  Left = 1419
-  Top = 162
+  Left = 0
+  Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Exemplo de Template Method - Andr'#233' Celestino'

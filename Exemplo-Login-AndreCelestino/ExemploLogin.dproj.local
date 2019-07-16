@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/02/12 12:25:24.000.490,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/20 17:04:42.000.104,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/03/08 20:50:18.000.165,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/03/10 08:38:49.000.661,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/04/29 00:06:50.000.761,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/04/30 00:16:55.000.568,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/05/18 19:43:57.000.734,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/05/22 22:55:54.000.069,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/06/01 10:38:48.000.824,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/06/24 08:40:09.000.481,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/06/30 00:53:52.000.147,=C:\Users\Batera\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2013/06/30 00:54:51.000.155,C:\Users\Batera\Documents\RAD Studio\Projects\Unit2.pas=D:\Temp\ExemploLogin\UnitPrincipal.pas</Transaction>
+    <Transaction>2013/06/30 00:54:51.000.155,C:\Users\Batera\Documents\RAD Studio\Projects\Unit2.dfm=D:\Temp\ExemploLogin\UnitPrincipal.dfm</Transaction>
+    <Transaction>2013/06/30 00:54:54.000.895,C:\Users\Batera\Documents\RAD Studio\Projects\Project2.dproj=D:\Temp\ExemploLogin\ExemploLogin.dproj</Transaction>
+    <Transaction>2013/06/30 00:55:10.000.487,=D:\Temp\ExemploLogin\Unit1.pas</Transaction>
+    <Transaction>2013/06/30 00:55:17.000.570,D:\Temp\ExemploLogin\Unit1.dfm=D:\Temp\ExemploLogin\UnitSplash.dfm</Transaction>
+    <Transaction>2013/06/30 00:55:17.000.569,D:\Temp\ExemploLogin\Unit1.pas=D:\Temp\ExemploLogin\UnitSplash.pas</Transaction>
+    <Transaction>2013/06/30 00:55:32.000.712,=D:\Temp\ExemploLogin\Unit3.pas</Transaction>
+    <Transaction>2013/06/30 00:55:44.000.407,D:\Temp\ExemploLogin\Unit3.dfm=D:\Temp\ExemploLogin\UnitLogin.dfm</Transaction>
+    <Transaction>2013/06/30 00:55:44.000.407,D:\Temp\ExemploLogin\Unit3.pas=D:\Temp\ExemploLogin\UnitLogin.pas</Transaction>
+    <Transaction>2013/06/30 13:47:25.000.407,=D:\Temp\ExemploLogin\Unit1.pas</Transaction>
+    <Transaction>2013/06/30 13:47:47.000.898,D:\Temp\ExemploLogin\UnitFormulario1.dfm=D:\Temp\ExemploLogin\Unit1.dfm</Transaction>
+    <Transaction>2013/06/30 13:47:47.000.898,D:\Temp\ExemploLogin\UnitFormulario1.pas=D:\Temp\ExemploLogin\Unit1.pas</Transaction>
+    <Transaction>2013/06/30 13:47:50.000.661,=D:\Temp\ExemploLogin\Unit1.pas</Transaction>
+    <Transaction>2013/06/30 13:48:12.000.671,D:\Temp\ExemploLogin\UnitFormulario2.pas=D:\Temp\ExemploLogin\Unit1.pas</Transaction>
+    <Transaction>2013/06/30 13:48:12.000.671,D:\Temp\ExemploLogin\UnitFormulario2.dfm=D:\Temp\ExemploLogin\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
