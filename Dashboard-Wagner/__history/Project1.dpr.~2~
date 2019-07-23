@@ -1,0 +1,16 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Dashboard in 'Dashboard.pas' {FrmDashboard},
+  Menu in 'Menu.pas' {FrmMenu};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmDashboard, FrmDashboard);
+  Application.CreateForm(TFrmMenu, FrmMenu);
+  Application.Run;
+end.

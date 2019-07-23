@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/03 09:34:14.000.130,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/16 09:13:23.000.731,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/31 16:35:20.000.434,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/02 13:51:31.000.798,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/02 14:26:16.000.414,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/18 15:15:07.000.084,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/18 15:16:29.000.153,C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\PC_PROG_3\Desktop\Thread\Unit1.dfm</Transaction>
+    <Transaction>2019/07/18 15:16:29.000.153,C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\PC_PROG_3\Desktop\Thread\Unit1.pas</Transaction>
+    <Transaction>2019/07/18 15:20:36.000.706,C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\PC_PROG_3\Desktop\Thread\Project1.dproj</Transaction>
+    <Transaction>2019/07/18 15:20:55.000.763,=C:\Users\PC_PROG_3\Desktop\Thread\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

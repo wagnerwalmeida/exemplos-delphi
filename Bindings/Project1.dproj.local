@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/03 09:34:14.000.130,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/16 09:13:23.000.731,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/31 16:35:20.000.434,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/02 13:51:31.000.798,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/02 14:26:16.000.414,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/23 13:40:36.665,=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/23 13:41:22.773,C:\Users\PC_PROG_3\Desktop\exemplos-delphi\Bindings\Unit1.dfm=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/07/23 13:41:22.773,C:\Users\PC_PROG_3\Desktop\exemplos-delphi\Bindings\Unit1.pas=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/23 13:41:25.772,C:\Users\PC_PROG_3\Desktop\exemplos-delphi\Bindings\Project1.dproj=C:\Users\PC_PROG_3\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

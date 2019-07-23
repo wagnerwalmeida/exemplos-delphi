@@ -1,0 +1,66 @@
+object FrmMenu: TFrmMenu
+  Left = 325
+  Top = 177
+  Align = alTop
+  Caption = 'FrmMenu'
+  ClientHeight = 441
+  ClientWidth = 912
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = Menu
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Menu: TMainMenu
+    Left = 24
+    Top = 16
+    object Arquivo1: TMenuItem
+      Caption = 'Arquivo'
+      object Fechar1: TMenuItem
+        Caption = 'Fechar'
+      end
+    end
+    object Adminsitrativo1: TMenuItem
+      Caption = 'Administrativo'
+      object Relatrios1: TMenuItem
+        Action = Fechar
+        Caption = 'Relat'#243'rios'
+      end
+    end
+    object Clientes1: TMenuItem
+      Caption = 'Clientes'
+      object Consultar1: TMenuItem
+        Caption = 'Consultar'
+      end
+      object Adicionar1: TMenuItem
+        Caption = 'Adicionar'
+      end
+    end
+    object Produtos1: TMenuItem
+      Caption = 'Produtos'
+      object Consultar2: TMenuItem
+        Caption = 'Consultar'
+      end
+      object Adicionar2: TMenuItem
+        Caption = 'Adicionar'
+      end
+    end
+  end
+  object ActionList1: TActionList
+    Left = 112
+    Top = 16
+    object Fechar: TAction
+      Caption = 'Fechar'
+    end
+    object Minimizar: TAction
+      Caption = 'Minimizar'
+    end
+    object Ajuda: TAction
+      Caption = 'Ajuda'
+    end
+  end
+end

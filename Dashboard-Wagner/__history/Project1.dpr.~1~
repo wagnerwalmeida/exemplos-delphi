@@ -1,0 +1,14 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Dashboard in 'Dashboard.pas' {FrmDashboard};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmDashboard, FrmDashboard);
+  Application.Run;
+end.

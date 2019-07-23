@@ -1,0 +1,25 @@
+object Form1: TForm1
+  Left = 279
+  Top = 177
+  Caption = 'Form1'
+  ClientHeight = 125
+  ClientWidth = 616
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Edit1: TEdit
+    Left = 104
+    Top = 32
+    Width = 177
+    Height = 49
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+end
